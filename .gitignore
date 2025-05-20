@@ -1,0 +1,40 @@
+# --- Environment Files ---
+.env
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# --- FAISS Index Files ---
+*.faiss
+*.index
+
+# --- Streamlit & Python Caches ---
+.cache/
+.streamlit/
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+
+# --- Project Folders to Ignore ---
+shpasst/
+
+# --- Logs & Temp Files ---
+*.log
+*.tmp
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- IDE/Editor Config ---
+.vscode/
+.idea/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db

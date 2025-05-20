@@ -1,0 +1,6 @@
+pandas
+faiss-cpu
+requests
+streamlit
+sentence-transformers
+python-dotenv
